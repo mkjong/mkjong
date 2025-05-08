@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm [Jong Myoung Kim](https://mkjong.github.io/)
 
-<!--
-**mkjong/mkjong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Ph.D. candidate at **KAIST** and visiting researcher at **Samsung**; former software engineer at **SK Telecom** 
+- 💬 Research interests:
+  - Large Language Models (LLMs)
+  - Natural Language Processing (NLP)
+  - Multilingual embedding alignment & knowledge transfer
+  - Real-world language understanding (messy, incomplete, ambiguous)
 
-Here are some ideas to get you started:
+- 🔧 Tech stack & tools:
+  - **Languages**: Python, C/C++, Rust
+  - **Frameworks**: PyTorch, Hugging Face Transformers
+  - **Tooling**: Docker, Git, Linux, Jupyter
+  - **Data**: JSONL, Hugging Face Datasets, custom corpus building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Passionate about building inclusive AI for **all languages**, not just English
+  - *One day, I'll have my own Jarvis*
+
+- 🤝 Open to collaboration on multilingual LLMs, embeddings, and AI assistants  
+  → Feel free to contribute to **[Stratapilot](https://github.com/KAIST-KEAI/stratapilot)** or reach out!
